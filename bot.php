@@ -47,4 +47,3 @@ if($arrJson['events'][0]['message']['text'] == "สวัสดี"){
   result = curl_exec($ch);
   curl_close ($ch);
  
-?>
