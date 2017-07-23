@@ -1,5 +1,5 @@
 <?php
-$proxy = 'http://fixie:h75Pw0cP2uqmHiu@velodrome.usefixie.com:80';
+$proxy = 'http://velodrome.usefixie.com:80';
 $proxyauth = 'fixie:h75Pw0cP2uqmHiu';
 $access_token = 'OG744wBkz4dlnL7VlXwOdKY7D87YXy+Wbu51/NR2e6hHAsm9H8Ci3MUZ+jsor7fepJyzMjsrpnAilK7ITOjtthLu2k1pWtvqluz4MV2IZdXHS9DbrIf4RXwUwPeuklWGDskhRaNM+wMe6ln9wKHfcAdB04t89/1O/w1cDnyilFU=';
 
